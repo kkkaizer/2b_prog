@@ -58,3 +58,13 @@ header {
     padding: 10px 20px;
     cursor: pointer;
   }
+  .titulo {
+    font-family: 'Cinzel', serif;
+  }
+  .colar-imagem {
+    display: inline;
+    font-size: 24px;
+    padding: 20px;
+    margin: 20px;
+    width: 20%;
+  }
