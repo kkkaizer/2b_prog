@@ -39,13 +39,13 @@ header {
   .product {
     border: 1px solid #ffabab;
     background-color: #ffc5c5;
-    padding: 20px;
+    padding: 16px;
     margin: 12px;
     text-align: center;
   }
   
   .product img {
-    max-width: 15%;
+    max-width: 20%;
   }
   
   .price {
@@ -89,11 +89,6 @@ header {
 }
 .rodape{
   background-color: #ffabab;
-  text-align: center;
+  padding: 12px;
 }
 
-.rodape-imagem{
-  height: 30px;
-  padding: 12px 500px;
-text-align: center;
-}
